@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.vscode/
+.DS_Store
+*.log
+*.sublime-*
+*.rar
+*.zip
+.idea
+.publish
+Thumbs.db
+__MACOSX
